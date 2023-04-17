@@ -5,7 +5,7 @@ here we are using
 1 - pytorch (python library) - open source machine learning library for Python
 
 2 - kivy - Python library for rapid development of applications
-            that make use of innovative user interfaces, such as multi-touch apps.
+            that make use of innovative user interfaces, such as multi-touch application.
             
             
 # first install Anaconda in your system
