@@ -2,7 +2,7 @@
 
 here we are using
 
-1 - pytorch (python library) - open source machine learning library for Python
+1 - pytorch (Python library) - open source machine learning library for Python
 
 2 - kivy - Python library for rapid development of applications
             that make use of innovative user interfaces, such as multi-touch application.
