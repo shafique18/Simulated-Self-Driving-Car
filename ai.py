@@ -2,9 +2,9 @@
 
 # Importing the libraries
 
+import os
 import numpy as np
 import random
-import os
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
