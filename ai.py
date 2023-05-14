@@ -50,6 +50,9 @@ class ReplayMemory(object):
 class Dqn():
     
     def __init__(self, input_size, nb_action, gamma):
+        '''
+        Deep Q learning class
+        '''
         self.gamma = gamma
         self.reward_window = []
         self.model = Network(input_size, nb_action)
