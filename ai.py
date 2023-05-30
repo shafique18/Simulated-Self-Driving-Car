@@ -28,7 +28,7 @@ class Network(nn.Module):
         q_values = self.fc2(x)
         return q_values
 
-# Implementing Experience Replay
+# Implementing Experience Replay for bot
 
 class ReplayMemory(object):
     
