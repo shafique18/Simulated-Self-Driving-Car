@@ -37,7 +37,7 @@ action2rotation = [0,20,-20]
 last_reward = 0
 scores = []
 
-# Initializing the map
+# Initializing the map that will be drawn
 first_update = True
 def init():
     global sand
