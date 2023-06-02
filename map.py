@@ -1,4 +1,4 @@
-# Self Driving Car
+# Self Driving Car map file
 
 # Importing the libraries
 import numpy as np
