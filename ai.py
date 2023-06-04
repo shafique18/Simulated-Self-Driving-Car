@@ -1,4 +1,4 @@
-# AI for Self Driving Car
+# AI for Self Driving Car using reinforcement learning 
 
 # Importing the libraries
 
