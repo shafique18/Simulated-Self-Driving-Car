@@ -1,6 +1,6 @@
-# AI for Self Driving Car using reinforcement learning 
+# AI for Self Driving Car using reinforcement learning
 
-# Importing the libraries
+# Importing the python libraries
 
 import os
 import numpy as np
