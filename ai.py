@@ -12,7 +12,7 @@ import torch.optim as optim
 import torch.autograd as autograd
 from torch.autograd import Variable
 
-## Creating the architecture of the Neural Network
+## Creating the architecture of the derp Neural Network
 
 class Network(nn.Module):
     
