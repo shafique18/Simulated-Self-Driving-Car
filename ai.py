@@ -1,4 +1,4 @@
-# AI for Self Driving Car using reinforcement learning
+# AI for Self Driving Car using reinforcement learning with python 
 
 # Importing the python libraries
 
