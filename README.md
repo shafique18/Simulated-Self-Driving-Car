@@ -13,6 +13,8 @@ here we are using
 # How to install PyTorch
 
   conda install pytorch-cpu -c pytorch 
+
+  for gpu please follow the pytorch documentation
   
   pip3 install torchvision
   
